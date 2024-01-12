@@ -1,0 +1,32 @@
+outs:
+- hash: md5
+  path: processed
+  files:
+  - relpath: test_target.pt
+    md5: da88b93a8dfe1ff25b3d1e25164657ee
+    size: 10800
+    cloud:
+      remote_storage:
+        etag: 08bbf98eb7d1d783031001
+        version_id: '1705055155895483'
+  - relpath: test_tensors.pt
+    md5: 6d3f48f90e7832a9fb65556af14cc837
+    size: 9884853
+    cloud:
+      remote_storage:
+        etag: 08cbafa8b7d1d783031001
+        version_id: '1705055156312011'
+  - relpath: train_target.pt
+    md5: 216c8f928edf4c9cd5fc7b075f87aa8a
+    size: 117109
+    cloud:
+      remote_storage:
+        etag: 08afe38bb7d1d783031001
+        version_id: '1705055155843503'
+  - relpath: train_tensors.pt
+    md5: f984ee41e75de5b4aa7d35c2157fa3e9
+    size: 118707386
+    cloud:
+      remote_storage:
+        etag: 08ca89ffb6d1d783031001
+        version_id: '1705055155635402'
