@@ -1,0 +1,37 @@
+{
+    "os": "macOS-14.2.1-arm64-arm-64bit",
+    "python": "3.11.7",
+    "heartbeatAt": "2024-01-12T10:37:51.831496",
+    "startedAt": "2024-01-12T10:37:50.782622",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/mbv396/PhD/Courses/dtu_mlops/02476_enzyme_stability/mlops_enzyme_stability/train_model.py",
+    "codePathLocal": "mlops_enzyme_stability/train_model.py",
+    "codePath": "mlops_enzyme_stability/train_model.py",
+    "git": {
+        "remote": "https://github.com/AlexanderVoldby/02476_enzyme_stability.git",
+        "commit": "cf699e8974e511c57069d7f152fd78bfd4f0647e"
+    },
+    "email": "pau.piera.linde@gmail.com",
+    "root": "/Users/mbv396/PhD/Courses/dtu_mlops/02476_enzyme_stability",
+    "host": "SUN1012508",
+    "username": "mbv396",
+    "executable": "/Users/mbv396/anaconda3/envs/mlops/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 494.89152908325195
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

@@ -1,0 +1,43 @@
+  | Name      | Type       | Params
+-----------------------------------------
+0 | mlp       | Sequential | 656 K
+1 | criterion | MSELoss    | 0
+-----------------------------------------
+656 K     Trainable params
+0         Non-trainable params
+656 K     Total params
+2.626     Total estimated model params size (MB)
+/Users/mbv396/anaconda3/envs/mlops/lib/python3.11/site-packages/pytorch_lightning/trainer/connectors/data_connector.py:436: Consider setting `persistent_workers=True` in 'train_dataloader' to speed up the dataloader worker initialization.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 4: 100%|█████████████████████████████████████████████████████████████████████| 1812/1812 [00:15<00:00, 116.55it/s, v_num=ybbu]
+`Trainer.fit` stopped: `max_epochs=5` reached.

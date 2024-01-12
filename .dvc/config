@@ -1,0 +1,5 @@
+[core]
+    remote = remote_storage
+['remote "remote_storage"']
+    url = gs://protein_embeddings/
+    version_aware = true
